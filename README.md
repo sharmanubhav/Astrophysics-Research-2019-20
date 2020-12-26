@@ -1,5 +1,5 @@
 # Astrophysics-Research-2019-20
-This respository contains code for the research done under Prof. Karen L Masters and Dr. David V Stark. The tables (fits files) and BPT diagrams (images) are proprietary data and are not uploaded to this repository.
+This respository contains code for the research done under Prof. Karen L Masters and Dr. David V Stark. The tables (fits files) and BPT diagrams (images) are proprietary data and are not uploaded to this repository. If you have any questions, contact the owner directly.
 
 ## BPTProject
 This folder contains code used for buidling [**Classification of all BPT diagrams in MaNGA**](https://www.zooniverse.org/projects/sharmanubhav/classification-of-all-bpt-diagrams-in-manga), a citizen science Zooniverse project that aims to classify all BPT diagrams in MaNGA. *This project is for SDSS-IV collaboration members and presents some proprietary data for MaNGA galaxies. If you are not a member of SDSS-IV we thank you for your interest, and recommend you try a public Zooniverse project like Galaxy Zoo.*
